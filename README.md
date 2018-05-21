@@ -1,2 +1,2 @@
 # algorithms_data_structures
-Princeton Algorithms &amp; Data Structures Course
+My take on Princeton Algorithms &amp; Data Structures Course using Python
